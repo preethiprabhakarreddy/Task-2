@@ -71,7 +71,3 @@ Concepts Used
  Output
 
 Successfully performed Create, Insert, Update, Delete, and Select operations on a Library Management System database.
-
-## Author
-
-[Your Name]
